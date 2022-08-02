@@ -1,8 +1,8 @@
-var motherGiveAmount = 1000;
-console.log(motherGiveAmount);
+var motherGiven = 1000;
+console.log(motherGiven);
 var applePrice = 400;
 var orangPrice = 300;
-var totalBuy = applePrice + orangPrice;
-console.log(totalBuy);
-var shopKeeperReturn = motherGiveAmount - totalBuy;
-console.log(shopKeeperReturn);
+var totalprice = applePrice + orangPrice;
+console.log(totalprice);
+var getBack = motherGiven - totalprice;
+console.log(getBack);

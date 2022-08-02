@@ -1,4 +1,3 @@
-var inputNumber = 119;
-var divisionNumber = 5;
-var outputNumber = 119 % 5;
-console.log(outputNumber);
+var number = 119;
+var reminder = number % 5;
+console.log(reminder);
